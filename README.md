@@ -1,4 +1,4 @@
-# Library-Management
+# Library Management
 This is a Library Management system in pure Python file!
 You all can check the files section for this Python File of this Repository!
 The Requirements are:
